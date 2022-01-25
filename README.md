@@ -1,4 +1,4 @@
-# tiktok-playwright [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/arc298/tiktok-playwright/build-test)](https://github.com/arc298/tiktok-playwright/actions)  [![Codecov](https://img.shields.io/codecov/c/github/arc298/tiktok-playwright)](https://app.codecov.io/gh/arc298/tiktok-playwright) [![npm](https://img.shields.io/npm/v/tiktok-playwright?color=blue)](https://www.npmjs.com/package/tiktok-playwright)
+# tiktok-playwright [![CI](https://github.com/buluma/tiktok-playwright/actions/workflows/main.yml/badge.svg)](https://github.com/buluma/tiktok-playwright/actions/workflows/main.yml)  [![Codecov](https://img.shields.io/codecov/c/github/arc298/tiktok-playwright)](https://app.codecov.io/gh/buluma/tiktok-playwright) [![npm](https://img.shields.io/npm/v/tiktok-playwright?color=blue)](https://www.npmjs.com/package/tiktok-playwright)
 
 > An application for downloading a TikTok user's videos. Use responsibly.
 

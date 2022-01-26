@@ -1,6 +1,6 @@
 {
-  "name": "tiktok-playwright",
-  "version": "0.0.6",
+  "name": "buluma-tiktok-playwright",
+  "version": "0.0.1",
   "description": "An application for downloading a tiktok user's videos.",
   "main": "index.js",
   "scripts": {
@@ -9,11 +9,12 @@
     "lint": "prettier --write --ignore-unknown ."
   },
   "keywords": [
+    "buluma",
     "tiktok",
     "playwright",
     "scraper"
   ],
-  "author": "arc298",
+  "author": "buluma",
   "license": "MIT",
   "dependencies": {
     "meow": "^9.0.0",
@@ -36,12 +37,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arc298/tiktok-playwright.git"
+    "url": "git+https://github.com/buluma/buluma-tiktok-playwright.git"
   },
   "bugs": {
-    "url": "https://github.com/arc298/tiktok-playwright/issues"
+    "url": "https://github.com/buluma/buluma-tiktok-playwright/issues"
   },
-  "homepage": "https://github.com/arc298/tiktok-playwright#readme",
+  "homepage": "https://github.com/buluma/buluma-tiktok-playwright#readme",
   "engines": {
     "node": ">=12 <=16"
   },
